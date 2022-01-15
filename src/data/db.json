@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "test post",
+      "datetime": "January 15, 2022 8:31:55 AM",
+      "body": "asda sadasdasd war wrq"
+    },
+    {
+      "id": 2,
+      "title": "gotcha",
+      "datetime": "January 15, 2022 8:32:04 AM",
+      "body": "wqreqw tur u y "
+    },
+    {
+      "id": 3,
+      "title": "Number ten",
+      "datetime": "January 15, 2022 8:36:19 AM",
+      "body": "tryrt try r "
+    },
+    {
+      "id": 4,
+      "title": "Number six",
+      "datetime": "January 15, 2022 8:35:52 AM",
+      "body": "66"
+    },
+    {
+      "id": 5,
+      "title": "Test post 2",
+      "datetime": "January 15, 2022 8:42:49 AM",
+      "body": "sdadasdaddsvdfvsvsvsdxczczczxczczczcz"
+    }
+  ]
+}
